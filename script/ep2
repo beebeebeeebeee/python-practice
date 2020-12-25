@@ -1,0 +1,17 @@
+大家好，今日嚟教大家用python嚟寫隻井字過三關玩下！
+相信大家都識玩井字過三關㗎啦
+當然今次都係教大家寫command line version嘅井字過三關
+可能遲啲會出一集教用GUI version嘅井字過三關
+
+咁首先呢我地會set啲變數先
+第一個就係個井字過三關嘅棋盤先，咁我set做board
+咁呢board入面就有9格，咁每格我就打返對應嘅list index先
+咁之後玩家揀返個index number就係嗰一格
+
+之後就有user啦 X同O
+我就將user都返入個list入面先
+X就index 0，O就index 1
+咁仲有個current_user就set 0先
+啫係個user index number嚟嘅，0啫係X
+
+咁
